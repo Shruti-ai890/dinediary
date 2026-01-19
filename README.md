@@ -23,6 +23,6 @@
 
 ## 🌐 Live Demo
 
-🔗 [View Live Site](https://cookbookbites.rf.gd/DineDiary/)
+🔗 [View Live Site](https://shruti-ai890.github.io/dinediary/)
 
 ---
