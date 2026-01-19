@@ -20,9 +20,3 @@
 - **Database:** MySQL
 
 ---
-
-## 🌐 Live Demo
-
-🔗 [View Live Site](https://shruti-ai890.github.io/dinediary/)
-
----
